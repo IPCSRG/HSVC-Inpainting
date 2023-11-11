@@ -38,8 +38,6 @@ We train our model on three public datasets including Places2, Celeba, and Paris
 3. [Paris Street-View](https://github.com/pathak22/context-encoder) 
 4. [Irregular Masks](http://masc.cs.gmu.edu/wiki/partialconv)
 
-```
-
 Finally, you can generate the image list using script  [`Dataset/flist.py`](scripts/flist.py) for training and testing.
 
 **2.   Training**
