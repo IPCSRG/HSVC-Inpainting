@@ -6,10 +6,10 @@ Code for our paper "[ HSVC-Image Inpainting]
 
 ##### Examples
 ![image](https://github.com/IPCSRG/AFSP-Inpainting/blob/main/Images/example.pn)
-Example inpainting results on images of face, natural scene and street view. Missing regions are shown in white. (From left to right) Input corrupted images, EC inpainting result, GTSDG inpainting result, ours results, and ground truth image, respectively.
+Example inpainting results on images of face, and natural scene. Missing regions are shown in white. (From left to right) Input corrupted images, inpainting structure, ours final results, respectively.
 
 ##### Demo
-![image](https://github.com/LIZHJUN/AFSP/blob/main/Demo/CelebA-HQ.gif)
+![image]()
 
 ### Requirements
 
