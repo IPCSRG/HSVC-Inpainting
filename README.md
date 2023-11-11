@@ -9,7 +9,7 @@ Code for our paper "[ HSVC-Image Inpainting]
 Example inpainting results on images of face, and natural scene. Missing regions are shown in white. (From left to right) Input corrupted images, inpainting structure, ours final results, respectively.
 
 ##### Demo
-![image]()
+![image](https://github.com/IPCSRG/HSVC-Inpainting/blob/main/HSVC-ImageInpainting.mp4)
 
 ### Requirements
 
