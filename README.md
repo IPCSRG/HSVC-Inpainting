@@ -26,11 +26,7 @@ Example inpainting results on images of face, and natural scene. Missing regions
    ```bash
    git clone https://github.com/IPCSRG/HSVC-Inpainting
    ```
-
-
-   ```
-
-
+   
 ### Running
 
 **1.   Image Prepare**
