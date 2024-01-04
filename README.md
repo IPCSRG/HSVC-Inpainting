@@ -82,7 +82,7 @@ python ./scripts/FID.py \
 ```
 
 
-**The pre-trained weights can be downloaded from [Places2](), [CelebA-HQ](), [Paris Street]().**
+**The pre-trained weights can be downloaded from [Places2](https://drive.google.com/drive/folders/1VXWnp3Cxl5r6yFf-GsPtYT-wMeqphwqu), [CelebA-HQ](https://drive.google.com/drive/folders/1iljc8iM5QiHDB5xUwS8xFv6wAmX9srWp), [Paris Street](https://drive.google.com/drive/folders/1CQXVuQht3f2EamEx9Bi7KR3e8tsGGLQX).**
 
 Download the checkpoints and save them to './path_of_your_experiments/name_of_your_experiment/checkpoints'
 
